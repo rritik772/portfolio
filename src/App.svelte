@@ -6,6 +6,8 @@
     import Skills from './components/skills.svelte';
     import Honor from './components/honor.svelte';
     import Education from './components/education.svelte';
+
+    alert('Work in Progress');
 </script>
 
 <Navbar />
